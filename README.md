@@ -1,5 +1,7 @@
 # React Posts
 
+![image](https://github.com/idkhtoc/react-posts/assets/87912703/479ab37b-46f4-4be3-a7c1-61b9da53ecc4)
+
 ## Overview
 
 This project was used to revise react
