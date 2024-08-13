@@ -13,7 +13,8 @@ This project was used to revise react
 3. Install dependencies: `npm install`
 5. Start: `npm run dev`
 6. Navigate to the server directory with another terminal: `cd server`
-7. Start>: `npm run start`
+7. Install dependencies: `npm install`
+8. Start: `npm run start`
 
 ## Contributing
 
